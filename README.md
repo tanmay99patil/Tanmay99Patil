@@ -9,5 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about  Flutter 
 - 📫 How to reach me: ... tanmay99patil@gmail.com
 - 😄 Pronouns: ...
-- ⚽ Passionate Footballer 
--->
+- ⚽ Passionate Footballer
